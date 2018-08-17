@@ -199,7 +199,7 @@ header{
 
 .footer{
 	padding:30px;
-	background-image: url("./pic/footer.jpg");
+	background-image: url(footer.jpg);
 	background-size: cover;
 }
 
