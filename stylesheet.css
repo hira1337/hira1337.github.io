@@ -28,7 +28,7 @@ header{
 
 .top-wrapper{
 	padding:150px 0 80px 0;
-	background-image: url("./pic/header.jpg");
+	background-image: url("header.jpg");
 	background-size: cover;
 	color: black;
 	text-align: center;
